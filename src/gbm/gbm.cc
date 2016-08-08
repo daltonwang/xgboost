@@ -2,6 +2,8 @@
  * Copyright 2015 by Contributors
  * \file gbm.cc
  * \brief Registry of gradient boosters.
+ * WANG Zhiping, 2016/08/08 ----- 这里定了了几个namespace
+  dmlc/xgboost
  */
 #include <xgboost/gbm.h>
 #include <dmlc/registry.h>
